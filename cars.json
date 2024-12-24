@@ -1,0 +1,44 @@
+[
+    {
+        "make": "Toyota",
+        "brand": "Corolla",
+        "model": "2020",
+        "color": "Red",
+        "index": 0
+    },
+    {
+        "make": "Honda",
+        "brand": "Civic",
+        "model": "2019",
+        "color": "Blue",
+        "index": 1
+    },
+    {
+        "make": "Honda",
+        "brand": "Jazz",
+        "model": "2020",
+        "color": "Red",
+        "index": 2
+    },
+    {
+        "make": "Honda",
+        "brand": "Perfect",
+        "model": "2015",
+        "color": "black",
+        "index": 3
+    },
+    {
+        "make": "Sh00la",
+        "brand": "MainCoon",
+        "model": "2016",
+        "color": "black and white",
+        "index": 4
+    },
+    {
+        "make": "Shraga",
+        "brand": "the best",
+        "model": "2015",
+        "color": "Orange",
+        "index": 5
+    }
+]
